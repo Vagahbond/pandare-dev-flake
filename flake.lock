@@ -61,6 +61,7 @@
       },
       "original": {
         "owner": "panda-re",
+        "ref": "v1.8.24",
         "repo": "panda",
         "type": "github"
       }
